@@ -10,8 +10,7 @@
     "lint:js": "gulp eslint"
   },
   "pre-commit": [
-    "lint:js",
-    "test"
+    "lint:js"
   ],
   "author": "Gustavo Pereira",
   "browser": {

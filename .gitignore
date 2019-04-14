@@ -9,6 +9,9 @@
 # Click-Once directory
 publish/
 
+# Node directory
+node_modules/
+
 #
 build/
 coverage/
