@@ -1,0 +1,14 @@
+## Ignore temporary files, build results
+
+# User-specific files
+.DS_Store
+
+# Web workbench (sass)
+.sass-cache/
+
+# Click-Once directory
+publish/
+
+#
+build/
+coverage/
